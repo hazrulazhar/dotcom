@@ -1,0 +1,49 @@
+{
+  "name": "hazrulazhar.com",
+  "version": "1.0.0",
+  "description": "Personal website of Hazrul A Jamari",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-header": "^2.0.5",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "handlebars": "^4.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hazrulazhar/dotcom.git"
+  },
+  "keywords": [
+    "hazrul",
+    "azhar",
+    "jamari",
+    "e-commerce",
+    "hero",
+    "entrepreneur",
+    "technopreneur",
+    "singapore",
+    "malaysia",
+    "wordpress",
+    "woocommerce",
+    "shopify",
+    "payments",
+    "logistics",
+    "supply",
+    "chain"
+  ],
+  "author": "Hazrul A Jamari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hazrulazhar/dotcom/issues"
+  },
+  "homepage": "https://github.com/hazrulazhar/dotcom#readme"
+}

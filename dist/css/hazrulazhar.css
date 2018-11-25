@@ -1,0 +1,21 @@
+/*!
+ * Hazrul A Jamari -  v1.0.0 (https://github.com/hazrulazhar/dotcom#readme)
+ * Copyright 2018-2018 Hazrul A Jamari
+ * Licensed under MIT (https://github.com/hazrulazhar/hazrulazhar.com/blob/master/LICENSE)
+ */
+
+.container {
+  width: 600px;
+}
+
+.container .jumbotron {
+  text-align: center;
+}
+
+.container .jumbotron img {
+  width: 30%;
+}
+
+.container .jumbotron h1 {
+  font-size: 25px;
+}
