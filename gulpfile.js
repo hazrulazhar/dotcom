@@ -114,7 +114,9 @@ gulp.task('html', function() {
 // Publish
 gulp.task('publish', function() {
   gulp.src([
-      './dist/*'
+      './dist/*',
+      './dist/*/*',
+      './dist/*/*/*'
   ])
   .pipe(gulp.dest('./docs/'));
 });
