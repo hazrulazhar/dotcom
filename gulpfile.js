@@ -111,6 +111,14 @@ gulp.task('html', function() {
   .pipe(gulp.dest('./dist/'));
 });
 
+// Publish
+gulp.task('publish', function() {
+  gulp.src([
+      './dist/*'
+  ])
+  .pipe(gulp.dest('./docs/'));
+});
+
 // Dev task
 gulp.task('dev', ['css', 'html', 'images', 'browserSync'], function() {
   gulp.watch('./src/assets/scss/*.scss', ['css']);
