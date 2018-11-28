@@ -4,8 +4,15 @@
  * Licensed under MIT (https://github.com/hazrulazhar/hazrulazhar.com/blob/master/LICENSE)
  */
 
+body {
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(50, 255, 0, 0.75)), to(rgba(50, 255, 0, 0.75))), url(../images/background.jpg) no-repeat center center fixed;
+  background: linear-gradient(rgba(50, 255, 0, 0.75), rgba(50, 255, 0, 0.75)), url(../images/background.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
 .container {
-  width: 600px;
+  background: #fff;
+  max-width: 600px;
 }
 
 .container .jumbotron {

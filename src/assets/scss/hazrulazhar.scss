@@ -1,5 +1,19 @@
+body {
+  background:
+  linear-gradient(
+    rgba(50, 255, 0, 0.75),
+    rgba(50, 255, 0, 0.75)
+  ),
+  url(../images/background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 .container {
-  width: 600px;
+  background: #fff;
+  max-width: 600px;
 
   .jumbotron {
     text-align: center;
