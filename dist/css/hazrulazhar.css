@@ -26,3 +26,9 @@ body {
 .container .jumbotron h1 {
   font-size: 25px;
 }
+
+footer {
+  padding: 15px;
+  clear: both;
+  text-align: center;
+}
