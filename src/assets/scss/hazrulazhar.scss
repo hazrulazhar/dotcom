@@ -34,3 +34,20 @@ footer {
   clear: both;
   text-align: center;
 }
+
+
+@media screen and (min-width: 661px) and (max-width: 812px) {
+
+}
+
+@media screen and (min-width: 400px) and (max-width: 660px) {
+  .container {
+    max-width: 380px !important;
+  }
+}
+
+@media screen and (min-width: 0px) and (max-width: 399px) {
+  .container {
+    max-width: 350px !important;
+  }
+}
