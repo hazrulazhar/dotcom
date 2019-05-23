@@ -1,3 +1,97 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+# Site settings
+baseURL = "//hazrulazhar.com"
+languageCode = "en-SG"
+title = "Hazrul Azhar Jamari. Technopreneur based in Singapore."
+theme = "hugo-split-theme"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+# Copyright
+copyright = "&copy;2019 Hazrul Azhar Jamari"
+
+[params]
+
+  # Metadata for search engines and social sharing
+  author = "Hazrul Azhar"
+  description = "Hazrul is a technopreneur and software engineer who loves building elegant solutions for E-Commerce in Southeast Asia."
+  shareImage = "background1.jpg"
+  twitterHandle = "hazrulazhar"
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "background1.jpg"
+      position = "center center"
+
+    # Video
+    [params.visual.video]
+      enable = false
+      mute = true
+      file = "videos/background.mp4"
+      # youtubeId = "dk9uNWPP7EA"
+
+  # Links
+  #
+  # Links List #1
+  [[params.links]]
+    [params.links.list1]
+      heading = "Connect"
+
+      [[params.links.list1.link]]
+        text = "Blog"
+        url = "#"
+
+      [[params.links.list1.link]]
+        text = "Email"
+        url = "hi@hazrulazhar.com"
+
+      [[params.links.list1.link]]
+        text = "Newsletter"
+        url = "#"
+
+  # Links List #2
+  [[params.links]]
+    [params.links.list2]
+      heading = "Social"
+
+      [[params.links.list2.link]]
+        text = "Twitter"
+        url = "#"
+
+      [[params.links.list2.link]]
+        text = "Instagram"
+        url = "https://www.instagram.com/hzrlazhr"
+
+      [[params.links.list2.link]]
+        text = "Dribbble"
+        url = "#"
+
+  # Links List #3
+  [[params.links]]
+    [params.links.list3]
+      heading = "Network"
+
+      [[params.links.list3.link]]
+        text = "Link One"
+        url = "#"
+
+      [[params.links.list3.link]]
+        text = "Link Two"
+        url = "#"
+
+      [[params.links.list3.link]]
+        text = "Link Three"
+        url = "#"
+
+  # The original template is released under the Creative Commons Attribution 3.0 License.
+  # Please keep the original attribution link when using for your own project.
+  # If you'd like to use the template without the attribution, you can check out
+  # the license option via the template author's website: https://onepagelove.com/split
