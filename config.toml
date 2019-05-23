@@ -31,6 +31,11 @@ copyright = "&copy;2019 Hazrul Azhar Jamari"
       file = "background1.jpg"
       position = "center center"
 
+    [params.visual.image2]
+      enable = true
+      file = "family.jpg"
+      position = "center center"
+
     # Video
     [params.visual.video]
       enable = false
@@ -43,19 +48,16 @@ copyright = "&copy;2019 Hazrul Azhar Jamari"
   # Links List #1
   [[params.links]]
     [params.links.list1]
-      heading = "Connect"
+      heading = "Articles"
 
       [[params.links.list1.link]]
         text = "Blog"
         url = "#"
 
       [[params.links.list1.link]]
-        text = "Email"
-        url = "hi@hazrulazhar.com"
-
-      [[params.links.list1.link]]
-        text = "Newsletter"
+        text = "Media"
         url = "#"
+
 
   # Links List #2
   [[params.links]]
@@ -63,16 +65,16 @@ copyright = "&copy;2019 Hazrul Azhar Jamari"
       heading = "Social"
 
       [[params.links.list2.link]]
-        text = "Twitter"
-        url = "#"
+        text = "Facebook"
+        url = "https://www.facebook.com/hazrulofficial"
 
       [[params.links.list2.link]]
-        text = "Instagram"
-        url = "https://www.instagram.com/hzrlazhr"
+        text = "Github"
+        url = "https://www.github.com/hazrulazhar"
 
       [[params.links.list2.link]]
-        text = "Dribbble"
-        url = "#"
+        text = "LinkedIn"
+        url = "https://www.linkedin.com/in/hazrulazhar"
 
   # Links List #3
   [[params.links]]
@@ -80,16 +82,18 @@ copyright = "&copy;2019 Hazrul Azhar Jamari"
       heading = "Network"
 
       [[params.links.list3.link]]
-        text = "Link One"
+        text = "Contact Me"
         url = "#"
 
-      [[params.links.list3.link]]
-        text = "Link Two"
-        url = "#"
 
-      [[params.links.list3.link]]
-        text = "Link Three"
-        url = "#"
+[menu]
+
+  [[menu.main]]
+    identifier = "family"
+    name = "This is the family section"
+    title = "Family Man"
+    url = "/family-man/"
+    weight = 1
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
