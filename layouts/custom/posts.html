@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="{{ default .Site.LanguageCode "en-US" }}">
+
+<head>
+  {{ partial "head" . }}
+</head>
+
+<body id="fullsingle" class="page-template-page-fullsingle-split">
+
+  <div class="fs-split">
+
+    <!-- Image -->
+    {{ if .Site.Params.visual.image.enable }}
+
+      <div class="split-image">
+
+      </div>
+
+    <!-- Video -->
+    {{ else if .Site.Params.visual.video.enable }}
+
+      {{ partial "video" . }}
+
+    {{ end }}
+
+    <!-- Content Side -->
+    <div class="split-content">
+      <div class="split-content-vertically-center">
+        <!-- Intro -->
+        {{ partial "intro" . }}
+
+        <!-- Main -->
+
+{{ define "main" }}
+
+<section id="home">
+        <ul>
+          {{ range $index, $page := first 10 (where .Site.RegularPages "Section" "in" .Site.Params.mainSections) }}
+          <li {{if eq $index 0}}class="first"{{end}}>
+            <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1> 
+            {{ partial "aside" . }}
+            <p>{{ .Summary }}</p>
+            {{ if .Truncated }}
+            <a href="{{ .RelPermalink }}">Read more&hellip;</a>
+            {{ end }}
+          </li>
+          {{ end }}
+        </ul>
+      </section>
+
+{{ end }}
+
+<!-- Footer -->
+{{ partial "footer" . }}
+</div>
+</div>
+
+</div>
+
+</body>
+</html>

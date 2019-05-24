@@ -62,11 +62,11 @@ copyright = "&copy;2019 Hazrul Azhar Jamari"
 
       [[params.links.list1.link]]
         text = "Blog"
-        url = "#"
+        url = "/blog/"
 
       [[params.links.list1.link]]
         text = "Media"
-        url = "#"
+        url = "/media/"
 
 
   # Links List #2
