@@ -16,4 +16,4 @@ I'm a [family man]({{< ref "family-man.md" >}}), entrepreneur, software engineer
 - 2018. Leading an engineering team building a [Halal lifestyle super app](https://www.whatshalal.com) with its own QR payment system.
 - 2019. Founded an [E-Commerce Consulting practice](https://www.hazxco.com).
 
-For a full CV, visit my [LinkedIn](https://www.linkedin.com/in/hazrulazhar/). Or see a curated list of my tech community involvement.
+For a full CV, visit my [LinkedIn](https://www.linkedin.com/in/hazrulazhar/). Or [see a curated list of my tech community involvement]({{< ref "tech-community.md" >}}).

@@ -36,6 +36,16 @@ copyright = "&copy;2019 Hazrul Azhar Jamari"
       file = "family.jpg"
       position = "center center"
 
+    [params.visual.image3]
+      enable = true
+      file = "foodie.jpg"
+      position = "center center"
+
+    [params.visual.image4]
+      enable = true
+      file = "background2.jpg"
+      position = "center center"
+
     # Video
     [params.visual.video]
       enable = false
@@ -83,17 +93,7 @@ copyright = "&copy;2019 Hazrul Azhar Jamari"
 
       [[params.links.list3.link]]
         text = "Contact Me"
-        url = "#"
-
-
-[menu]
-
-  [[menu.main]]
-    identifier = "family"
-    name = "This is the family section"
-    title = "Family Man"
-    url = "/family-man/"
-    weight = 1
+        url = "/contact/"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
