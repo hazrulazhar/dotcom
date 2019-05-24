@@ -1,7 +1,7 @@
 ---
 title: "Tech Community"
 date: 2019-05-24T12:10:11+08:00
-draft: true
+draft: false
 type: custom
 layout: community
 ---

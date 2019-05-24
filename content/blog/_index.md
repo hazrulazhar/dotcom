@@ -1,5 +1,7 @@
 +++
 title = "Blog"
 type = "custom"
-layout = "posts"
+layout = "blog"
 +++
+
+Welcome to my blog!
