@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hazrul Azhar Jamari on Hazrul Azhar Jamari. Technopreneur based in Singapore.</title>
+    <link>//www.hazrulazhar.com/</link>
+    <description>Recent content in Hazrul Azhar Jamari on Hazrul Azhar Jamari. Technopreneur based in Singapore.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-SG</language>
+    <copyright>&amp;copy;2019 Hazrul Azhar Jamari</copyright>
+    <lastBuildDate>Fri, 24 May 2019 12:10:11 +0800</lastBuildDate>
+    
+	<atom:link href="//www.hazrulazhar.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tech Community</title>
+      <link>//www.hazrulazhar.com/tech-community/</link>
+      <pubDate>Fri, 24 May 2019 12:10:11 +0800</pubDate>
+      
+      <guid>//www.hazrulazhar.com/tech-community/</guid>
+      <description>Speak WordCamp Singapore 2017
+How WooCommerce is being disrupted by Shopify.
+BarCamp JB 2015
+How to sell online faster by not building a website.
+BarCamp Singapore 2011
+Growth of WordPress 2011.
+WordCamp Singapore 2011
+Building a collaborative user network for Open Source WordPress in Asia.
+Volunteer Singapore WordPress User Group, 2010 - 2011
+Lead Co-Founder of WordPress User Group organising bi-monthly meetups. partnering with the NLB and co-working spaces. Today, I attend meetups occasionally as a regular member.</description>
+    </item>
+    
+    <item>
+      <title>Foodie</title>
+      <link>//www.hazrulazhar.com/foodie/</link>
+      <pubDate>Fri, 24 May 2019 04:18:30 +0800</pubDate>
+      
+      <guid>//www.hazrulazhar.com/foodie/</guid>
+      <description>I&amp;rsquo;m an avid foodie and post daily on Instagram/@haz_daily and Facebook/@hazdaily. Sometimes, I give my honest reviews on restaurants I visit on Instagram/@honesthalalreviews and Facebook/@honesthalalreviews.
+&amp;lt; Back</description>
+    </item>
+    
+    <item>
+      <title>Family Man</title>
+      <link>//www.hazrulazhar.com/family-man/</link>
+      <pubDate>Fri, 24 May 2019 03:13:40 +0800</pubDate>
+      
+      <guid>//www.hazrulazhar.com/family-man/</guid>
+      <description>I&amp;rsquo;m married to Farah Nadia, a passionate educator in the Singapore Civil Service. Together, we are cat parents to rescue cats Rachael, Shiro and Abu.
+&amp;lt; Back</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>//www.hazrulazhar.com/hello-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//www.hazrulazhar.com/hello-world/</guid>
+      <description>Hello.</description>
+    </item>
+    
+  </channel>
+</rss>

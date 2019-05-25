@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "//hazrulazhar.com"
+baseURL = "//www.hazrulazhar.com"
 languageCode = "en-SG"
 title = "Hazrul Azhar Jamari. Technopreneur based in Singapore."
 theme = "hugo-split-theme"
