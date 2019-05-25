@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Hazrul Azhar Jamari. Technopreneur based in Singapore.</title>
+    <link>//hazrulazhar.com/categories/</link>
+    <description>Recent content in Categories on Hazrul Azhar Jamari. Technopreneur based in Singapore.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-SG</language>
+    <copyright>&amp;copy;2019 Hazrul Azhar Jamari</copyright>
+    
+	<atom:link href="//hazrulazhar.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
