@@ -3,7 +3,7 @@ baseURL = "//hazrulazhar.com"
 languageCode = "en-SG"
 title = "Hazrul Azhar Jamari. Technopreneur based in Singapore."
 theme = "hugo-split-theme"
-disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+# disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
@@ -59,16 +59,16 @@ copyright = "&copy;2019 Hazrul Azhar Jamari"
   #
   # Links List #1
   [[params.links]]
-    [params.links.list1]
-      heading = "Articles"
+  #  [params.links.list1]
+  #    heading = "Articles"
 
-      [[params.links.list1.link]]
-        text = "Blog"
-        url = "/blog/"
+  #    [[params.links.list1.link]]
+  #      text = "Blog"
+  #      url = "/blog/"
 
-      [[params.links.list1.link]]
-        text = "Media"
-        url = "/media/"
+  #    [[params.links.list1.link]]
+  #      text = "Media"
+  #      url = "/media/"
 
 
   # Links List #2
