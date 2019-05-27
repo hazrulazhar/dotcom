@@ -3,6 +3,7 @@ baseURL = "//www.hazrulazhar.com"
 languageCode = "en-SG"
 title = "Hazrul Azhar Jamari. Technopreneur based in Singapore."
 theme = "hugo-split-theme"
+publishDir = "docs"
 # disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
 # Enter your tracking code to enable Google Analytics
@@ -95,7 +96,7 @@ copyright = "&copy;2019 Hazrul Azhar Jamari"
 
       [[params.links.list3.link]]
         text = "Contact Me"
-        url = "/contact/"
+        url = "mailto: hi@hazrulazhar.com"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
