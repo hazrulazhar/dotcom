@@ -1,0 +1,32 @@
+<div class="split-lists">
+
+    <div class="split-list">
+        <h3>Nav</h3>
+        <ul>
+    {{ range .Site.Menus.main }} 
+        {{ $icon := printf "<i data-feather=\"%s\"></i>" .Pre }}
+        {{ $text := print $icon " " .Name | safeHTML }}
+            <li><a class="nav-link" href="{{ .URL }}">{{ $text }}</a></li>
+    {{ end }}
+        </ul>
+    </div>
+
+    {{ range $key, $value := .Site.Params.links }}
+      {{ range $key, $list := $value }}
+  
+      {{ if $list.link }}
+        <div class="split-list">
+          <h3>{{ $list.heading }}</h3>
+          <ul>
+            {{ range $list.link }}
+              <li><a href="{{ .url }}">{{ .text }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+      {{ end }}
+  
+      {{ end }}
+    {{ end }}
+  
+  </div>
+  

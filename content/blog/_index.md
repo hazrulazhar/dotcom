@@ -1,5 +1,3 @@
-+++
-title = "Blog"
-+++
-
-Welcome to my blog!
+---
+title: Blog
+---

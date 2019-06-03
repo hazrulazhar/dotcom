@@ -1,9 +1,7 @@
 ---
 title: "Tech Community"
 date: 2019-05-24T12:10:11+08:00
-draft: false
-type: custom
-layout: community
+background: background2.jpg
 ---
 
 ## Speak
@@ -45,5 +43,3 @@ A [PHP-CLI test kit](https://github.com/abanghazrul/tr46-testkit) for developers
 
 **HazHowdy - Howdy to Assalamualaikum Converter**  
 [This plugin](https://wordpress.org/plugins/howdy-to-assalamualaikum-converter/) changes the standard Howdy greeting to the Islamic "Assalamualaikum".
-
-[&lt; Back]({{< ref "_index.md" >}})

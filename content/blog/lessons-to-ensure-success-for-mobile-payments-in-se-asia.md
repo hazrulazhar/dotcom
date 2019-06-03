@@ -1,0 +1,23 @@
+---
+title: Lessons to ensure success for mobile payments in SE Asia.
+date: '2015-11-01T23:46:47+0800'
+tags: []
+---
+<p>A few years ago, I joined my friend's company to build a mobile payments solution for in-app payments in games. We were pretty much pioneering that space in SE Asia and had at the time secured Series A funding from Singtel and Stream Global. However, eventually the company didn't make it.</p>
+<p><strong>Go down to the base level</strong></p>
+<p>The lessons I've learnt about mobile payment companies are that you have to go down to the base level and build your own. We were aggregating payments. Some day, it won't matter how many payment options you offer. In reality, the developer will only be interested to use one that works. The features we tried to push was that you only needed to learn 1 API. Therefore, regardless of whichever market which dictates your choice of payment gateway, you didn't need to create multiple builds for multiple markets.</p>
+<p>In theory, that sounded like a great USP. But in practise, we weren't getting much traction from developers who didn't seem to care.</p>
+<p>If we came up with our own unique payment solution, it would have been easier to sell the company or at the very least still survive to this day. In our time, barely half a decade ago, we were integrating stuff like Zong. In 2011, they were acquired by eBay, which later became part of Paypal.</p>
+<p><strong>Focus on geography</strong></p>
+<p>We seem to have payment options worldwide. But if we focused on SE Asian payments, I think we would have survived longer. CodaPay is a living example. They were founded in 2011, really not too long ago. Their unique payment option had a stronger IP than us.</p>
+<p>Today, if you observe other mobile payment companies, like Doku which focuses specifically on Indonesia, probably the largest SE Asian country, they're still around. A tight focus on geography will make your company stand out.</p>
+<p><strong>Make payments accessible at the API level</strong></p>
+<p>We focused too much on SDKs. Our APIs are internally used by the SDKs. Braintree has a similar approach. However, you could still use Braintree payments without an SDK. You only need an SDK if your entire approach focused on mobile. But if you're a payments company, then it should be accessible even to the web. I think if we made our API open, we would have a higher chance of success. Instead of restricting ourselves to mobile developers, even web developers would integrate us for eCommerce stores. The fact is that a lot of the payments today are still done over the web. The idea that payments are done mostly over mobile is half true. Yes, about 55% of payments are done over mobile... but the mobile web.</p>
+<p><strong>Go big or go home</strong></p>
+<p>Marketing a payments solution needs to be aggressive. Behave like a lion. Go for the kill. Go big or go home. Our budget placed a lot of money on tech. But I felt that we should have spent more on building the business side. We needed more help in BD and sales. And we needed top class people in there to bring the bacon home.</p>
+<p>So if you follow these tips, your chances of success would likely exceed our experience. Many of us are still in the ecommerce payment space. I myself am running <a href="https://rezkii.com">Rezkii eCommerce</a>, which provides online sellers with a free store to sell faster. I've integrated with my ex-colleague who are doing internet banking payments. And some of my ex-colleagues are doing cool stuff like bitcoin exchanges.</p>
+<p>Maybe mobile payments in my time was a false start. Maybe we might see a clearer winner over the next 5 or 7 years. But one thing is for sure, SE Asia payments space is always changing and all bets are off. You don't know really who will still be there 5 years down the road. And you don't know really who will be ubiquitous from Mandalay to Manila.</p>
+<p>&nbsp;</p>
+<p><strong>Sources:</strong></p>
+<p><a href="https://www.techinasia.com/mobile-payments-southeast-asia/?utm_source=TIA+Insights+Members+%28Weekly+Report%29&amp;utm_campaign=136e7e99cc-Tech_in_Asia_Weekly_Report_6_9_20159_2_2015&amp;utm_medium=email&amp;utm_term=0_ec67b3bcd3-136e7e99cc-97621845">https://www.techinasia.com/mobile-payments-southeast-asia/?utm_source=TIA+Insights+Members+%28Weekly+Report%29&amp;utm_campaign=136e7e99cc-Tech_in_Asia_Weekly_Report_6_9_20159_2_2015&amp;utm_medium=email&amp;utm_term=0_ec67b3bcd3-136e7e99cc-97621845</a></p>
+<p><a href="http://blogs.forrester.com/zhi_ying_ng/15-10-14-the_race_for_mobile_payments_is_heating_up_in_southeast_asia">http://blogs.forrester.com/zhi_ying_ng/15-10-14-the_race_for_mobile_payments_is_heating_up_in_southeast_asia</a></p>

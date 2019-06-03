@@ -1,6 +1,6 @@
 +++
 title = "Hazrul Azhar Jamari"
-tagline = "E-Commerce. Fintech. Geospatial."
+tagline = "Geospatial E-Commerce & Fintech"
 +++
 
 I'm a [family man]({{< ref "family-man.md" >}}), entrepreneur, software engineer, and [foodie]({{< ref "foodie.md" >}}), and have been building startups all my life. I have gone through a complete cycle of E-Commerce from training, building online and mobile e-store, building payment gateways and building a fulflllment and distribution system throughout my career.

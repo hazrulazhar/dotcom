@@ -1,0 +1,35 @@
+---
+layout: post
+status: publish
+published: true
+title: Solution to when none of your Mac accounts work and you can't login to your
+  computer
+author:
+  display_name: Hazrul
+  login: abanghazrul
+  email: abanghazrul@gmail.com
+  url: ''
+author_login: abanghazrul
+author_email: abanghazrul@gmail.com
+wordpress_id: 3099
+wordpress_url: https://www.hazrulazhar.com/?p=3099
+date: '2017-08-29 16:54:43 +0800'
+date_gmt: '2017-08-29 08:54:43 +0800'
+categories:
+- Tech
+- Other tech I find exciting
+tags: []
+comments: []
+---
+<p>So I had a very peculiar problem yesterday when I had to setup a Mac for a new user. The only problem was, I could not login to the admin account. That was strange. We provision accounts remotely using JumpCloud, allowing user credentials to be provisioned to individual systems. It allows me greater efficiency to onboard and offboard users.</p>
+<p>What happened was the Mac has been inactive for 5 months. For some reason, it couldn't validate my password even though it was the correct one. I tried a few things, like resetting the password for the admin account locally. However, that didn't work. I thought I'd try to use the root account, but for some reason, I couldn't su into the terminal.</p>
+<p>So I figured I needed a way to create a new user account, but how do I do that when I could not even access my admin account.</p>
+<p>Thankfully, found the answer at <a href="https://apple.stackexchange.com/a/164332">Stack Exchange</a>. Was able to create a new local account and then de-associate the other accounts on the Mac and re-provision the system.</p>
+<p>So follow these steps to create a new admin account when you don't have access to your admin accounts.</p>
+<ol>
+<li>Boot into Single User Mode <kbd>⌘</kbd> + <kbd>S</kbd>.</li>
+<li>Mount the drive by typing <code>/sbin/mount -uw /</code> then <kbd>↩ enter</kbd>.</li>
+<li>Remove the Apple Setup Done file by typing <code>rm /var/db/.AppleSetupDone</code> then <kbd>↩ enter</kbd>.</li>
+<li>Reboot by typing <code>reboot</code> then <kbd>↩ enter</kbd>.</li>
+<li>Complete the setup process, creating a new admin account.</li>
+</ol>
