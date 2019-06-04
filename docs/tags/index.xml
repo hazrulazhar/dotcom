@@ -6,6 +6,7 @@
     <description>Recent content in Tags on Hazrul Azhar Jamari. Technopreneur based in Singapore.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-SG</language>
+    <copyright>&amp;copy;2019 Hazrul Azhar</copyright>
     <lastBuildDate>Wed, 01 Feb 2017 17:02:36 +0800</lastBuildDate>
     
 	<atom:link href="//www.hazrulazhar.com/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -138,20 +139,20 @@
     </item>
     
     <item>
+      <title>Asia</title>
+      <link>//www.hazrulazhar.com/tags/asia/</link>
+      <pubDate>Wed, 23 Nov 2011 02:34:33 +0800</pubDate>
+      
+      <guid>//www.hazrulazhar.com/tags/asia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Singapore</title>
       <link>//www.hazrulazhar.com/tags/singapore/</link>
       <pubDate>Wed, 23 Nov 2011 02:34:33 +0800</pubDate>
       
       <guid>//www.hazrulazhar.com/tags/singapore/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>asia</title>
-      <link>//www.hazrulazhar.com/tags/asia/</link>
-      <pubDate>Wed, 23 Nov 2011 02:34:33 +0800</pubDate>
-      
-      <guid>//www.hazrulazhar.com/tags/asia/</guid>
       <description></description>
     </item>
     
