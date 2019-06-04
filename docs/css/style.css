@@ -1,0 +1,30 @@
+.split-intro {
+    font-size: 45px !important;
+}
+
+time, .tag-btn {
+    font-size: 15px;
+}
+
+code {
+    display: block;
+    font-family: monospace;
+    background: #000000; 
+    color: #ffffff;
+    border:grey dashed 1px; 
+    padding:6px;
+}
+
+blockquote {
+    display: block;
+    font-size: 0.9em;
+    background: #ffffff;
+    color: #000000;
+    border: #ffffff dashed 1px;
+    padding: 12px;
+}
+
+img.size-large {
+    width: 600px;
+    height: 450px;
+}

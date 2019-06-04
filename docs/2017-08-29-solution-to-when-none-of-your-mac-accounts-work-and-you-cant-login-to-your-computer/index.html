@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+
+<title>Solution to when none of your Mac accounts work and you can&#39;t login to your computer - Hazrul Azhar Jamari. Technopreneur based in Singapore.</title>
+<meta name="author" content="Hazrul Azhar" />
+<meta name="description" content="Hazrul is a technopreneur and software engineer who loves building elegant solutions for E-Commerce in Southeast Asia." />
+<meta name="robots" content="index, follow" />
+<meta name="referrer" content="always" />
+
+
+<meta property="og:title" content="Solution to when none of your Mac accounts work and you can&#39;t login to your computer - Hazrul Azhar Jamari. Technopreneur based in Singapore." />
+<meta property="og:description" content="Hazrul is a technopreneur and software engineer who loves building elegant solutions for E-Commerce in Southeast Asia." />
+<meta property="og:url" content="//www.hazrulazhar.com" />
+
+<meta property="og:image" content="//www.hazrulazhar.com/background1.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<meta name="twitter:site" content="@hazrulazhar" />
+
+
+<link rel="icon" href="//www.hazrulazhar.com/favicon.ico" />
+
+
+<link rel="stylesheet" href="//www.hazrulazhar.com/assets/css/split.css" type="text/css" media="screen" />
+
+<link rel="stylesheet" href="//www.hazrulazhar.com/css/style.css">
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+
+
+
+  <style>
+  
+    .fs-split .split-image { background-image: url("//www.hazrulazhar.com/background1.jpg"); background-position: center center; }
+  
+  
+  </style>
+
+
+
+
+
+</head>
+
+<body id="fullsingle" class="page-template-page-fullsingle-split">
+
+  <div class="fs-split">
+
+    
+    
+
+      <div class="split-image">
+
+      </div>
+
+    
+    
+
+    
+    <div class="split-content">
+      <div class="split-content-vertically-center">
+        
+        <div class="split-intro">
+  <h1>Solution to when none of your Mac accounts work and you can&#39;t login to your computer</h1>
+  
+</div>
+
+
+        
+        
+          
+          <div class="split-bio">
+  <p>So I had a very peculiar problem yesterday when I had to setup a Mac for a new user. The only problem was, I could not login to the admin account. That was strange. We provision accounts remotely using JumpCloud, allowing user credentials to be provisioned to individual systems. It allows me greater efficiency to onboard and offboard users.</p>
+<p>What happened was the Mac has been inactive for 5 months. For some reason, it couldn't validate my password even though it was the correct one. I tried a few things, like resetting the password for the admin account locally. However, that didn't work. I thought I'd try to use the root account, but for some reason, I couldn't su into the terminal.</p>
+<p>So I figured I needed a way to create a new user account, but how do I do that when I could not even access my admin account.</p>
+<p>Thankfully, found the answer at <a href="https://apple.stackexchange.com/a/164332">Stack Exchange</a>. Was able to create a new local account and then de-associate the other accounts on the Mac and re-provision the system.</p>
+<p>So follow these steps to create a new admin account when you don't have access to your admin accounts.</p>
+<ol>
+<li>Boot into Single User Mode <kbd>⌘</kbd> + <kbd>S</kbd>.</li>
+<li>Mount the drive by typing <code>/sbin/mount -uw /</code> then <kbd>↩ enter</kbd>.</li>
+<li>Remove the Apple Setup Done file by typing <code>rm /var/db/.AppleSetupDone</code> then <kbd>↩ enter</kbd>.</li>
+<li>Reboot by typing <code>reboot</code> then <kbd>↩ enter</kbd>.</li>
+<li>Complete the setup process, creating a new admin account.</li>
+</ol>
+
+</div>
+
+        
+
+        
+        
+<div class="split-lists">
+
+    <div class="split-list">
+        <h3>Nav</h3>
+        <ul>
+     
+        
+        
+            <li><a class="nav-link" href="/"><i data-feather="home"></i> Home</a></li>
+     
+        
+        
+            <li><a class="nav-link" href="/family-man/"><i data-feather="edit"></i> Family</a></li>
+     
+        
+        
+            <li><a class="nav-link" href="/foodie/"><i data-feather="tag"></i> Foodie</a></li>
+     
+        
+        
+            <li><a class="nav-link" href="/tech-community/"><i data-feather="tag"></i> Tech</a></li>
+    
+        </ul>
+    </div>
+
+    
+      
+  
+      
+        <div class="split-list">
+          <h3>Articles</h3>
+          <ul>
+            
+              <li><a href="/blog">Blog</a></li>
+            
+              <li><a href="/media">Media</a></li>
+            
+          </ul>
+        </div>
+      
+  
+      
+    
+      
+  
+      
+        <div class="split-list">
+          <h3>Social</h3>
+          <ul>
+            
+              <li><a href="https://www.linkedin.com/in/hazrulazhar">LinkedIn</a></li>
+            
+              <li><a href="https://www.github.com/hazrulazhar">Github</a></li>
+            
+              <li><a href="https://www.facebook.com/hazrulazhar.co">Facebook</a></li>
+            
+          </ul>
+        </div>
+      
+  
+      
+    
+      
+  
+      
+        <div class="split-list">
+          <h3>Network</h3>
+          <ul>
+            
+              <li><a href="mailto:%20hi@hazrulazhar.com">Contact Me</a></li>
+            
+          </ul>
+        </div>
+      
+  
+      
+    
+  
+  </div>
+  
+<div class="split-credit">
+<p> - <a href="https://onepagelove.com/split">Split Template</a> by <a href="https://onepagelove.com">One Page Love</a></p>
+
+<!--
+To edit this credit you can remove the CC3.0 license for only $5 here: https://onepagelove.com/split
+this really helps contribute towards us developing more templates and means the world to me!
+Cheers, Rob (@robhope)
+-->
+</div>
+  
+      </div>
+    </div>
+
+  </div>
+
+</body>
+</html>
