@@ -4,6 +4,12 @@ title = "Hazrul Azhar Jamari. Technopreneur based in Singapore."
 theme = "hugo-split-theme"
 publishDir = "docs"
 
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = "UA-103684164-1"
+
+# Copyright
+copyright = "&copy;2019 Hazrul Azhar"
+
 [taxonomies]
   tag = "tags"
 
