@@ -7,3 +7,5 @@ Based on the work of https://github.com/zwbetz-gh/make-a-hugo-blog-from-scratch.
 Special mention to [@ravernkoh](https://github.com/ravernkoh) for pointing me to the right direction.
 
 This is a port from WordPress and a curated list of blog posts. I decided I will only choose the best work for posting.
+
+Website at [hazrulazhar.com](https://www.hazrulazhar.com)
