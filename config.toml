@@ -29,15 +29,13 @@ publishDir = "docs"
     url = "/foodie/"
     weight = 3
   [[menu.main]]
-    name = "Tech Community"
+    name = "Tech"
     pre = "tag"
     url = "/tech-community/"
     weight = 4
 
 [params]
-  containerMaxWidth = "700px"
   dateFormat = "Jan 2, 2006"
-  homeText = "You just made a Hugo blog from scratch."
 
 # Metadata for search engines and social sharing
   author = "Hazrul Azhar"
@@ -73,10 +71,7 @@ publishDir = "docs"
           text = "Blog"
           url = "/blog"
         [[params.links.list1.link]]
-          text = "Tags"
-          url = "/tags"
-        [[params.links.list1.link]]
-          text = "Media Mentions"
+          text = "Media"
           url = "/media"
 
 

@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+<div class="split-bio">
+{{ range .Pages.ByPublishDate.Reverse }}
+<p>
+  <a href="{{ .Params.source }}">{{ .Title }}</a>
+  <br>
+  {{ partial "media-tags.html" . }}
+</p>
+{{ end }}
+</div>
+
+{{ end }}
