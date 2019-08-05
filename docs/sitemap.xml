@@ -3,12 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//www.hazrulazhar.com/contact/</loc>
-    <lastmod>2019-05-24T12:29:12+08:00</lastmod>
+    <loc>//www.hazrulazhar.com/blog/</loc>
+    <lastmod>2019-08-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/tags/business/</loc>
+    <lastmod>2019-08-06T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/tags/entrepreneurship/</loc>
+    <lastmod>2019-08-06T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/fight-v-flight/</loc>
+    <lastmod>2019-08-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/tags/grit/</loc>
+    <lastmod>2019-08-06T00:00:00+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/</loc>
+    <lastmod>2019-08-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/tags/practical/</loc>
+    <lastmod>2019-08-06T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/tags/</loc>
+    <lastmod>2019-08-06T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/tags/truth-bombs/</loc>
+    <lastmod>2019-08-06T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/contact/</loc>
     <lastmod>2019-05-24T12:29:12+08:00</lastmod>
   </url>
   
@@ -40,11 +86,6 @@
   <url>
     <loc>//www.hazrulazhar.com/media/launch-of-geoworks-singapore-s-geospatial-industry-centre/</loc>
     <lastmod>2018-07-16T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//www.hazrulazhar.com/blog/</loc>
-    <lastmod>2018-06-27T23:24:15+08:00</lastmod>
   </url>
   
   <url>
@@ -118,12 +159,6 @@
   </url>
   
   <url>
-    <loc>//www.hazrulazhar.com/tags/</loc>
-    <lastmod>2017-02-01T17:02:36+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>//www.hazrulazhar.com/young-and-malay-growing-up-in-multicultural-malaysia/</loc>
     <lastmod>2017-02-01T17:02:36+08:00</lastmod>
   </url>
@@ -181,12 +216,6 @@
   <url>
     <loc>//www.hazrulazhar.com/pricing-intelligently/</loc>
     <lastmod>2015-11-24T13:26:57+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//www.hazrulazhar.com/tags/business/</loc>
-    <lastmod>2015-11-24T13:26:57+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
