@@ -3,8 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>//www.hazrulazhar.com/family-man/</loc>
+    <lastmod>2020-04-03T00:30:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/</loc>
+    <lastmod>2020-04-03T00:30:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//www.hazrulazhar.com/blog/</loc>
-    <lastmod>2019-08-06T00:00:00+08:00</lastmod>
+    <lastmod>2020-04-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/tags/free/</loc>
+    <lastmod>2020-04-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/tags/learning/</loc>
+    <lastmod>2020-04-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/tags/python/</loc>
+    <lastmod>2020-04-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/python-learning-material/</loc>
+    <lastmod>2020-04-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/tags/</loc>
+    <lastmod>2020-04-03T00:00:00+08:00</lastmod>
   </url>
   
   <url>
@@ -28,17 +63,7 @@
   </url>
   
   <url>
-    <loc>//www.hazrulazhar.com/</loc>
-    <lastmod>2019-08-06T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>//www.hazrulazhar.com/tags/practical/</loc>
-    <lastmod>2019-08-06T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//www.hazrulazhar.com/tags/</loc>
     <lastmod>2019-08-06T00:00:00+08:00</lastmod>
   </url>
   
@@ -60,11 +85,6 @@
   <url>
     <loc>//www.hazrulazhar.com/foodie/</loc>
     <lastmod>2019-05-24T04:18:30+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//www.hazrulazhar.com/family-man/</loc>
-    <lastmod>2019-05-24T03:13:40+08:00</lastmod>
   </url>
   
   <url>

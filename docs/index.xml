@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-SG</language>
     <copyright>&amp;copy;2019 Hazrul Azhar</copyright>
-    <lastBuildDate>Tue, 06 Aug 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2020 00:30:00 +0800</lastBuildDate>
     
 	<atom:link href="//www.hazrulazhar.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Family Man</title>
+      <link>//www.hazrulazhar.com/family-man/</link>
+      <pubDate>Fri, 03 Apr 2020 00:30:00 +0800</pubDate>
+      
+      <guid>//www.hazrulazhar.com/family-man/</guid>
+      <description>I&amp;rsquo;m married to Farah Nadia, a passionate educator in the Singapore Civil Service. Together, we are parents to our adorable son, Rafa Shakur, and cat parents to rescue cats Rachael, Shiro and Abu.</description>
+    </item>
+    
+    <item>
+      <title>Python Learning Material</title>
+      <link>//www.hazrulazhar.com/python-learning-material/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0800</pubDate>
+      
+      <guid>//www.hazrulazhar.com/python-learning-material/</guid>
+      <description>I&amp;rsquo;ve been on a learning journey and just picking up Python properly. It isn&amp;rsquo;t the first time I was introduced to Python or Django. My ex-colleague, Hong introduced it to me ages ago back in 2008. That was also when Django started. I was still very much a PHP man then. Still is now. At my current company, Python is used heavily. The syntax is similar to Ruby, but somehow has a PHP feel to it.</description>
+    </item>
     
     <item>
       <title>Fight vs Flight</title>
@@ -37,7 +55,9 @@
       <pubDate>Fri, 24 May 2019 12:10:11 +0800</pubDate>
       
       <guid>//www.hazrulazhar.com/tech-community/</guid>
-      <description>Speak WordCamp Singapore 2017
+      <description>Speak WordCamp Singapore 2019
+Comparing WooCommerce SaaS vs Managed Woocommerce Hosting - WordCamp Singapore 2019
+WordCamp Singapore 2017
 How WooCommerce is being disrupted by Shopify.
 BarCamp JB 2015
 How to sell online faster by not building a website.
@@ -45,8 +65,7 @@ BarCamp Singapore 2011
 Growth of WordPress 2011.
 WordCamp Singapore 2011
 Building a collaborative user network for Open Source WordPress in Asia.
-Volunteer Singapore WordPress User Group, 2010 - 2011
-Lead Co-Founder of WordPress User Group organising bi-monthly meetups. partnering with the NLB and co-working spaces. Today, I attend meetups occasionally as a regular member.</description>
+Volunteer DevSG Telegram Community, 2018 - Present Founded the DevSG telegram groups playing the role as Servant-Leader.</description>
     </item>
     
     <item>
@@ -55,16 +74,7 @@ Lead Co-Founder of WordPress User Group organising bi-monthly meetups. partnerin
       <pubDate>Fri, 24 May 2019 04:18:30 +0800</pubDate>
       
       <guid>//www.hazrulazhar.com/foodie/</guid>
-      <description>I&amp;rsquo;m an avid foodie and post daily on Instagram/@haz_daily and Facebook/@hazdaily. Sometimes, I give my honest reviews on restaurants I visit on Instagram/@honesthalalreviews and Facebook/@honesthalalreviews.</description>
-    </item>
-    
-    <item>
-      <title>Family Man</title>
-      <link>//www.hazrulazhar.com/family-man/</link>
-      <pubDate>Fri, 24 May 2019 03:13:40 +0800</pubDate>
-      
-      <guid>//www.hazrulazhar.com/family-man/</guid>
-      <description>I&amp;rsquo;m married to Farah Nadia, a passionate educator in the Singapore Civil Service. Together, we are cat parents to rescue cats Rachael, Shiro and Abu.</description>
+      <description>I&amp;rsquo;m an avid foodie and post (not so) daily on Instagram/@haz_daily and Facebook/@hazdaily.</description>
     </item>
     
     <item>

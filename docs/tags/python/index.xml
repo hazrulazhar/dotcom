@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Hazrul Azhar Jamari. Technopreneur based in Singapore.</title>
+    <link>//www.hazrulazhar.com/tags/python/</link>
+    <description>Recent content in Python on Hazrul Azhar Jamari. Technopreneur based in Singapore.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-SG</language>
+    <copyright>&amp;copy;2019 Hazrul Azhar</copyright>
+    <lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="//www.hazrulazhar.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python Learning Material</title>
+      <link>//www.hazrulazhar.com/python-learning-material/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0800</pubDate>
+      
+      <guid>//www.hazrulazhar.com/python-learning-material/</guid>
+      <description>I&amp;rsquo;ve been on a learning journey and just picking up Python properly. It isn&amp;rsquo;t the first time I was introduced to Python or Django. My ex-colleague, Hong introduced it to me ages ago back in 2008. That was also when Django started. I was still very much a PHP man then. Still is now. At my current company, Python is used heavily. The syntax is similar to Ruby, but somehow has a PHP feel to it.</description>
+    </item>
+    
+  </channel>
+</rss>
