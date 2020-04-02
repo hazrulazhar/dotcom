@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hazrul Azhar Jamari. Technopreneur based in Singapore.</title>
@@ -355,20 +355,20 @@
     </item>
     
     <item>
-      <title>Malay Peninsula</title>
-      <link>//www.hazrulazhar.com/tags/malay-peninsula/</link>
-      <pubDate>Mon, 03 Aug 2009 04:06:24 +0800</pubDate>
-      
-      <guid>//www.hazrulazhar.com/tags/malay-peninsula/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Malay language</title>
       <link>//www.hazrulazhar.com/tags/malay-language/</link>
       <pubDate>Mon, 03 Aug 2009 04:06:24 +0800</pubDate>
       
       <guid>//www.hazrulazhar.com/tags/malay-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malay Peninsula</title>
+      <link>//www.hazrulazhar.com/tags/malay-peninsula/</link>
+      <pubDate>Mon, 03 Aug 2009 04:06:24 +0800</pubDate>
+      
+      <guid>//www.hazrulazhar.com/tags/malay-peninsula/</guid>
       <description></description>
     </item>
     

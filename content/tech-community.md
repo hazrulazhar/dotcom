@@ -5,6 +5,10 @@ background: background2.jpg
 ---
 
 ## Speak
+
+**WordCamp Singapore 2019**  
+[Comparing WooCommerce SaaS vs Managed Woocommerce Hosting - WordCamp Singapore 2019](https://engineers.sg/video/comparing-woocommerce-saas-vs-managed-woocommerce-hosting-wordcamp-singapore-2019--3610)
+
 **WordCamp Singapore 2017**  
 [How WooCommerce is being disrupted by Shopify](https://engineers.sg/video/how-woocommerce-is-being-disrupted-by-shopify-wordcampsg-2017--2123).
 
@@ -19,14 +23,17 @@ background: background2.jpg
 
 ## Volunteer
 
+**DevSG Telegram Community, 2018 - Present**
+Founded the DevSG telegram groups playing the role as Servant-Leader. The group was founded as an alternative Reddit/StackOverflow where devs could help one another in a more casual and live chat environment.
+
+**Matt Mullenweg Live!, 2014**  
+Played a bit role [volunteering with the Singapore PHP User Group](https://wpug.sg/2014/matt-mullenweg-live/) and met my idol [Matt Mullenweg](https://ma.tt) for the first time.
+
 **Singapore WordPress User Group, 2010 - 2011**  
 Lead Co-Founder of [WordPress User Group](https://www.meetup.com/WordPress-Singapore/?_cookie-check=-gQhAy4rC6gtzaFK) organising bi-monthly meetups. partnering with the [NLB](https://www.nlb.gov.sg/) and co-working spaces. Today, I attend meetups occasionally as a regular member.
 
 **WordCamp Singapore 2011**  
 Chaired the organising committee to launch our [first WordCamp in Singapore](https://2011.singapore.wordcamp.org/) attracting over 100 people to Microsoft Auditorium.
-
-**Matt Mullenweg Live!, 2014**  
-Played a bit role [volunteering with the Singapore PHP User Group](https://wpug.sg/2014/matt-mullenweg-live/) and met my idol [Matt Mullenweg](https://ma.tt) for the first time.
 
 ## Demos
 
@@ -43,3 +50,6 @@ A [PHP-CLI test kit](https://github.com/abanghazrul/tr46-testkit) for developers
 
 **HazHowdy - Howdy to Assalamualaikum Converter**  
 [This plugin](https://wordpress.org/plugins/howdy-to-assalamualaikum-converter/) changes the standard Howdy greeting to the Islamic "Assalamualaikum".
+
+**WooSmoovpay - A Woocommerce plugin for Smoovpay**
+The original Smoovpay Woocommerce plugin wasn't very good so I re-wrote it. This is a paid plugin.

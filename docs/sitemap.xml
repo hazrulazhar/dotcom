@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -10,13 +10,11 @@
   <url>
     <loc>//www.hazrulazhar.com/tags/business/</loc>
     <lastmod>2019-08-06T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/tags/entrepreneurship/</loc>
     <lastmod>2019-08-06T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -27,7 +25,6 @@
   <url>
     <loc>//www.hazrulazhar.com/tags/grit/</loc>
     <lastmod>2019-08-06T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -38,19 +35,16 @@
   <url>
     <loc>//www.hazrulazhar.com/tags/practical/</loc>
     <lastmod>2019-08-06T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/tags/</loc>
     <lastmod>2019-08-06T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/tags/truth-bombs/</loc>
     <lastmod>2019-08-06T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -159,20 +153,18 @@
   </url>
   
   <url>
-    <loc>//www.hazrulazhar.com/young-and-malay-growing-up-in-multicultural-malaysia/</loc>
-    <lastmod>2017-02-01T17:02:36+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>//www.hazrulazhar.com/tags/malaysia/</loc>
     <lastmod>2017-02-01T17:02:36+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/tags/reading-list/</loc>
     <lastmod>2017-02-01T17:02:36+08:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/young-and-malay-growing-up-in-multicultural-malaysia/</loc>
+    <lastmod>2017-02-01T17:02:36+08:00</lastmod>
   </url>
   
   <url>
@@ -186,26 +178,23 @@
   </url>
   
   <url>
+    <loc>//www.hazrulazhar.com/tags/malay/</loc>
+    <lastmod>2016-09-16T16:18:18+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//www.hazrulazhar.com/malays-represented-as-president-or-a-president-that-represents-all/</loc>
     <lastmod>2016-09-16T16:18:18+08:00</lastmod>
   </url>
   
   <url>
-    <loc>//www.hazrulazhar.com/tags/malay/</loc>
-    <lastmod>2016-09-16T16:18:18+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>//www.hazrulazhar.com/tags/president/</loc>
     <lastmod>2016-09-16T16:18:18+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/tags/singapore-issues/</loc>
     <lastmod>2016-09-16T16:18:18+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -221,7 +210,6 @@
   <url>
     <loc>//www.hazrulazhar.com/tags/sales/</loc>
     <lastmod>2015-11-24T13:26:57+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -247,13 +235,11 @@
   <url>
     <loc>//www.hazrulazhar.com/tags/supply-chain/</loc>
     <lastmod>2014-04-24T00:37:32+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/tags/tech/</loc>
     <lastmod>2014-04-24T00:37:32+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -264,13 +250,26 @@
   <url>
     <loc>//www.hazrulazhar.com/tags/ndp/</loc>
     <lastmod>2013-08-09T05:27:33+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/tags/reflections/</loc>
     <lastmod>2013-08-09T05:27:33+08:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/tags/football/</loc>
+    <lastmod>2013-02-27T11:53:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/tags/mediacorp/</loc>
+    <lastmod>2013-02-27T11:53:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/tags/sleague/</loc>
+    <lastmod>2013-02-27T11:53:56+08:00</lastmod>
   </url>
   
   <url>
@@ -279,21 +278,8 @@
   </url>
   
   <url>
-    <loc>//www.hazrulazhar.com/tags/football/</loc>
-    <lastmod>2013-02-27T11:53:56+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//www.hazrulazhar.com/tags/mediacorp/</loc>
-    <lastmod>2013-02-27T11:53:56+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//www.hazrulazhar.com/tags/sleague/</loc>
-    <lastmod>2013-02-27T11:53:56+08:00</lastmod>
-    <priority>0</priority>
+    <loc>//www.hazrulazhar.com/tags/asia/</loc>
+    <lastmod>2011-11-23T02:34:33+08:00</lastmod>
   </url>
   
   <url>
@@ -302,33 +288,23 @@
   </url>
   
   <url>
-    <loc>//www.hazrulazhar.com/tags/asia/</loc>
-    <lastmod>2011-11-23T02:34:33+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>//www.hazrulazhar.com/tags/singapore/</loc>
     <lastmod>2011-11-23T02:34:33+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/tags/speech/</loc>
     <lastmod>2011-11-23T02:34:33+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/tags/wordcamp/</loc>
     <lastmod>2011-11-23T02:34:33+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/tags/wordpress/</loc>
     <lastmod>2011-11-23T02:34:33+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -339,19 +315,16 @@
   <url>
     <loc>//www.hazrulazhar.com/tags/nadia/</loc>
     <lastmod>2010-12-27T05:36:57+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/tags/poetry/</loc>
     <lastmod>2010-12-27T05:36:57+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/tags/time-capsule/</loc>
     <lastmod>2010-12-27T05:36:57+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -362,13 +335,11 @@
   <url>
     <loc>//www.hazrulazhar.com/tags/china/</loc>
     <lastmod>2009-08-09T04:00:10+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/tags/india/</loc>
     <lastmod>2009-08-09T04:00:10+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -379,19 +350,16 @@
   <url>
     <loc>//www.hazrulazhar.com/tags/overseas-chinese/</loc>
     <lastmod>2009-08-09T04:00:10+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/tags/society-and-culture/</loc>
     <lastmod>2009-08-09T04:00:10+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/tags/british-empire/</loc>
     <lastmod>2009-08-05T04:46:01+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -402,55 +370,46 @@
   <url>
     <loc>//www.hazrulazhar.com/tags/england/</loc>
     <lastmod>2009-08-05T04:46:01+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/tags/history/</loc>
     <lastmod>2009-08-05T04:46:01+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/tags/malacca/</loc>
     <lastmod>2009-08-05T04:46:01+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/tags/monarchy-of-the-united-kingdom/</loc>
     <lastmod>2009-08-05T04:46:01+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/tags/bukit-chandu/</loc>
     <lastmod>2009-08-03T04:06:24+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/tags/chinese-language/</loc>
     <lastmod>2009-08-03T04:06:24+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/tags/government/</loc>
     <lastmod>2009-08-03T04:06:24+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//www.hazrulazhar.com/tags/malay-peninsula/</loc>
-    <lastmod>2009-08-03T04:06:24+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/tags/malay-language/</loc>
     <lastmod>2009-08-03T04:06:24+08:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/tags/malay-peninsula/</loc>
+    <lastmod>2009-08-03T04:06:24+08:00</lastmod>
   </url>
   
   <url>
@@ -464,20 +423,28 @@
   </url>
   
   <url>
-    <loc>//www.hazrulazhar.com/singaporean-enough/</loc>
-    <lastmod>2009-05-13T18:39:29+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>//www.hazrulazhar.com/tags/language/</loc>
     <lastmod>2009-05-13T18:39:29+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/tags/racism/</loc>
     <lastmod>2009-05-13T18:39:29+08:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/singaporean-enough/</loc>
+    <lastmod>2009-05-13T18:39:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/tags/community/</loc>
+    <lastmod>2009-04-18T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/tags/malays/</loc>
+    <lastmod>2009-04-18T00:00:00-08:00</lastmod>
   </url>
   
   <url>
@@ -486,26 +453,13 @@
   </url>
   
   <url>
-    <loc>//www.hazrulazhar.com/tags/community/</loc>
-    <lastmod>2009-04-18T00:00:00-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//www.hazrulazhar.com/tags/malays/</loc>
-    <lastmod>2009-04-18T00:00:00-08:00</lastmod>
-    <priority>0</priority>
+    <loc>//www.hazrulazhar.com/tags/halal/</loc>
+    <lastmod>2008-02-08T22:14:57-08:00</lastmod>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/halal-another-feared-idea/</loc>
     <lastmod>2008-02-08T22:14:57-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//www.hazrulazhar.com/tags/halal/</loc>
-    <lastmod>2008-02-08T22:14:57-08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -516,19 +470,41 @@
   <url>
     <loc>//www.hazrulazhar.com/tags/chinese/</loc>
     <lastmod>2007-10-16T22:14:57-08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/tags/culture/</loc>
     <lastmod>2007-10-16T22:14:57-08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>//www.hazrulazhar.com/tags/ramadan/</loc>
     <lastmod>2007-10-16T22:14:57-08:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/tags/mosque/</loc>
+    <lastmod>2007-09-29T05:21:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/tags/musolla/</loc>
+    <lastmod>2007-09-29T05:21:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/tags/prayer/</loc>
+    <lastmod>2007-09-29T05:21:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/tags/programming/</loc>
+    <lastmod>2007-09-29T05:21:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//www.hazrulazhar.com/tags/ruby-on-rails/</loc>
+    <lastmod>2007-09-29T05:21:59+08:00</lastmod>
   </url>
   
   <url>
@@ -537,33 +513,13 @@
   </url>
   
   <url>
-    <loc>//www.hazrulazhar.com/tags/mosque/</loc>
-    <lastmod>2007-09-29T05:21:59+08:00</lastmod>
-    <priority>0</priority>
+    <loc>//www.hazrulazhar.com/tags/rails/</loc>
+    <lastmod>2007-09-28T05:34:36+08:00</lastmod>
   </url>
   
   <url>
-    <loc>//www.hazrulazhar.com/tags/musolla/</loc>
-    <lastmod>2007-09-29T05:21:59+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//www.hazrulazhar.com/tags/prayer/</loc>
-    <lastmod>2007-09-29T05:21:59+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//www.hazrulazhar.com/tags/programming/</loc>
-    <lastmod>2007-09-29T05:21:59+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//www.hazrulazhar.com/tags/ruby-on-rails/</loc>
-    <lastmod>2007-09-29T05:21:59+08:00</lastmod>
-    <priority>0</priority>
+    <loc>//www.hazrulazhar.com/tags/ruby/</loc>
+    <lastmod>2007-09-28T05:34:36+08:00</lastmod>
   </url>
   
   <url>
@@ -572,21 +528,8 @@
   </url>
   
   <url>
-    <loc>//www.hazrulazhar.com/tags/rails/</loc>
-    <lastmod>2007-09-28T05:34:36+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//www.hazrulazhar.com/tags/ruby/</loc>
-    <lastmod>2007-09-28T05:34:36+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>//www.hazrulazhar.com/tags/web/</loc>
     <lastmod>2007-09-28T05:34:36+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

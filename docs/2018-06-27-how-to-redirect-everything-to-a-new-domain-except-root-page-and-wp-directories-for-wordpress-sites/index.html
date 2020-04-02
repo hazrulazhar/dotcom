@@ -90,19 +90,15 @@ if (!doNotTrack) {
           
           <div class="split-bio">
   <p>If you ever run a WordPress site that was going to be decomissioned, and you needed to redirect everything to the new domain running a non-WordPress site to the new domain&rsquo;s root page, but you do not want to redirect the root page of your old domain and any WordPress directories, spare 2 hours of your life and 10 varieties of cuss words. Here&rsquo;s your answer.</p>
-
 <p>Remove the following code in your .htaccess file:</p>
-
-<p><code>RewriteEngine On<br />
-RewriteBase /<br />
-RewriteRule ^index.php$ - [L]<br />
-RewriteCond %{REQUEST_FILENAME} !-f<br />
-RewriteCond %{REQUEST_FILENAME} !-d<br />
-RewriteRule . /index.php [L]<br />
-</code></p>
-
+<p><!-- raw HTML omitted -->RewriteEngine On<!-- raw HTML omitted -->
+RewriteBase /<!-- raw HTML omitted -->
+RewriteRule ^index.php$ - [L]<!-- raw HTML omitted -->
+RewriteCond %{REQUEST_FILENAME} !-f<!-- raw HTML omitted -->
+RewriteCond %{REQUEST_FILENAME} !-d<!-- raw HTML omitted -->
+RewriteRule . /index.php [L]<!-- raw HTML omitted -->
+<!-- raw HTML omitted --></p>
 <p>And replace it with this <a href="https://gist.github.com/hazrulazhar/f7d4fa0eee178fc6f5d35bea25e3813a">gist</a>.</p>
-
 <p>You&rsquo;re welcome.</p>
 
 </div>

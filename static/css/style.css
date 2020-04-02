@@ -2,6 +2,10 @@
     font-size: 45px !important;
 }
 
+.split-bio ul {
+    list-style-type: none;
+}
+
 time, .tag-btn {
     font-size: 15px;
 }
