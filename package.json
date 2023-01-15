@@ -1,0 +1,27 @@
+{
+  "name": "dotcom",
+  "version": "1.0.0",
+  "description": "<!--[![Netlify Status](https://api.netlify.com/api/v1/badges/53882522-ddef-46ec-b8b0-d1a2e4b8af5b/deploy-status)](https://app.netlify.com/sites/make-a-hugo-blog-from-scratch/deploys)-->",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hazrulazhar/dotcom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hazrulazhar/dotcom/issues"
+  },
+  "homepage": "https://github.com/hazrulazhar/dotcom#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.0.6",
+    "tinacms": "^1.1.3"
+  }
+}
