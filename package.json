@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/hazrulazhar/dotcom#readme",
   "dependencies": {
-    "@tinacms/cli": "^1.0.6",
+    "@tinacms/cli": "^1.0.9",
     "tinacms": "^1.1.3"
   }
 }
